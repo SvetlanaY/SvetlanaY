@@ -1,8 +1,9 @@
-### Hi there 👋
-
+ 
+ 
+ 
 |  Проект и орисание задачи | Библиотеки |  |
 | :---------------------------: | ---------------------: |:---------------------------:|
-| с выравниванием слева | с выравниванием справа | и с выравниванием по центру |
+| Исследование надёжности заёмщиков. | В проекте использовала: Pandas, NumPy, Seaborn, Matplotlib, pymystem3 | https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness |
 
 <!--
 **SvetlanaY/SvetlanaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
