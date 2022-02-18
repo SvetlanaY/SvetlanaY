@@ -1,9 +1,14 @@
  
  
  
-|  Проект и орисание задачи | Библиотеки |  |
+|  Проект и описание задачи | Библиотеки |  |
 | :--------------------------- | --------------------- |:---------------------------|
+| Отток клиентов. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn | https://github.com/SvetlanaY/customer_churn |
 | Исследование надёжности заёмщиков. | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 | https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness |
+| Исследование надёжности заёмщиков. | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 | https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness |
+| Исследование надёжности заёмщиков. | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 | https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness |
+
+
 
 <!--
 **SvetlanaY/SvetlanaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
