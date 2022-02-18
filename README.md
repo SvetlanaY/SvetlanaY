@@ -10,6 +10,19 @@
 | [Исследование надёжности заёмщиков]( https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness "Исследование надёжности заёмщиковы")| Подготовка данных, которые будут учтены при построении модели кредитного скоринга  | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 |
 
 
+[Elbrus Bootcamp (учебный опыт)]( https://datascience.elbrusboot.camp/ "Elbrus Bootcamp (учебный опыт)")
+|  Проект |  Описание задачи | Библиотеки | 
+| :--------------------------- | :--------------------------- | --------------------- |
+| [Создание телеграм-бота РубриКом ](https://github.com/SvetlanaY/Wildberries_bot/tree/master "Проект по созданию телеграм-бота РубриКом ")| Функциональность телеграм-бота:
+- Получение ссылки на товар в Wildberries  
+- Предоставление пользователю "облака слов" из 30 наиболее часто встречающихся слов в комментариях  
+- Кластеризация всех отзывов на 5 кластеров  
+- Выдача комментариев по каждой теме в порядке удаленности от центра кластера и с учетом тональности отзыва.  
+- Выдача комментариев по любому слову/словосочетанию в порядке уменьшения значения similarity из библиотеки Spacy с учетом тональности отзыва. | Aiogram, Scrapy, Spacy, sklearn, keras, Pandas, NumPy, MyStem, SciPy |
+| [Предсказание стоимости домов]( https://github.com/SvetlanaY/House-prices "Предсказание стоимости домов")| Предсказание стоимости домов, в зависимости от их параметров | Pandas, NumPy, Seaborn, Matplotlib |
+
+
+
 <!--
 **SvetlanaY/SvetlanaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
