@@ -1,13 +1,12 @@
  
  
  
-|  Проект |  Описание задачи | Библиотеки |  |
-| :--------------------------- | :--------------------------- | --------------------- |:---------------------------|
-| [Отток клиентов](https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |  |
-| Исследование игровых платформ и успешности игры| Выявить определяющие успешность игры закономерности для планирования рекламной кампании. | Pandas, NumPy, Seaborn, Matplotlib,scipy | https://github.com/SvetlanaY/gaming_platforms |
+|  Проект |  Описание задачи | Библиотеки |
+| :--------------------------- | :--------------------------- | --------------------- |
+| [Отток клиентов](https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |
+| [Исследование игровых платформ и успешности игры]( https://github.com/SvetlanaY/gaming_platforms "Исследование игровых платформ и успешности игры")| Выявить определяющие успешность игры закономерности для планирования рекламной кампании. | Pandas, NumPy, Seaborn, Matplotlib,scipy |
 | Отток клиентов.| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn | https://github.com/SvetlanaY/customer_churn |
-| Исследование надёжности заёмщиков.|  | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 | https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness  |
-
+| [Исследование надёжности заёмщиков]( https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness "Исследование надёжности заёмщиковы")|  | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 |
 
 <!--
 **SvetlanaY/SvetlanaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
