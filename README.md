@@ -5,7 +5,7 @@
 | :--------------------------- | :--------------------------- | --------------------- |
 | [Отток клиентов](https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |
 | [Исследование игровых платформ и успешности игры]( https://github.com/SvetlanaY/gaming_platforms "Исследование игровых платформ и успешности игры")| Выявить определяющие успешность игры закономерности для планирования рекламной кампании. | Pandas, NumPy, Seaborn, Matplotlib,scipy |
-| Отток клиентов.| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn | https://github.com/SvetlanaY/customer_churn |
+| [Определение перспективного тарифа для телеком-компанииы]( https://github.com/SvetlanaY/tarifs_for_telecom "Определение перспективного тарифа для телеком-компании")|Предварительный анализ тарифов на небольшой выборке клиентов для корректировки рекламного бюджета | Pandas, NumPy, Seaborn, Matplotlib,scipy | 
 | [Исследование надёжности заёмщиков]( https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness "Исследование надёжности заёмщиковы")|  | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 |
 
 <!--
