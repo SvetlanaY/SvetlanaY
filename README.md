@@ -1,6 +1,6 @@
  
  
-[Яндекс.Практикум Data Scientist (учебный опыт)]( https://practicum.yandex.ru/data-scientist/ "Яндекс.Практикум Data Scientist (учебный опыт)")
+[Яндекс.Практикум Data Scientist (учебный опыт)]( https://practicum.yandex.ru/data-scientist/ "Яндекс.Практикум Data Scientist (учебный опыт)") 2021-н.в.
 |  Проект |  Описание задачи | Библиотеки | 
 | :--------------------------- | :--------------------------- | --------------------- |
 | [Отток клиентов](https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |
@@ -10,11 +10,15 @@
 | [Исследование надёжности заёмщиков]( https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness "Исследование надёжности заёмщиковы")| Подготовка данных, которые будут учтены при построении модели кредитного скоринга  | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 |
 
 
-[Elbrus Bootcamp (учебный опыт)]( https://datascience.elbrusboot.camp/ "Elbrus Bootcamp (учебный опыт)")
+
+[Elbrus Bootcamp (учебный опыт)]( https://datascience.elbrusboot.camp/ "Elbrus Bootcamp (учебный опыт)") 2021 год
 |  Проект |  Описание задачи | Библиотеки | 
 | :--------------------------- | :--------------------------- | --------------------- |
 | [Создание телеграм-бота РубриКом ](https://github.com/SvetlanaY/Wildberries_bot/tree/master "Проект по созданию телеграм-бота РубриКом ")| Функциональность телеграм-бота: Получение ссылки на товар в Wildberries, Предоставление пользователю "облака слов" из 30 наиболее часто встречающихся слов в комментариях, Кластеризация всех отзывов на 5 кластеров, Выдача комментариев по каждой теме в порядке удаленности от центра кластера и с учетом тональности отзыва, Выдача комментариев по любому слову/словосочетанию в порядке уменьшения значения similarity из библиотеки Spacy с учетом тональности отзыва. | Aiogram, Scrapy, Spacy, sklearn, keras, Pandas, NumPy, MyStem, SciPy |
 | [Предсказание стоимости домов]( https://github.com/SvetlanaY/House-prices "Предсказание стоимости домов")| Предсказание стоимости домов, в зависимости от их параметров | Pandas, NumPy, Seaborn, Matplotlib |
+
+
+[Яндекс.Практикум Python (учебный опыт)]( https://praktikum.yandex.ru/profile/backend-developer// "Яндекс.Практикум Python (учебный опыт)") 2020 год
 
 
 
