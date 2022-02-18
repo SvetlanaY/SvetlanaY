@@ -1,6 +1,6 @@
  
  
-[Яндекс.Практикум Data Scientist (учебный опыт)](practicum.yandex.ru/data-scientist/ "Яндекс.Практикум Data Scientist (учебный опыт)")
+[Яндекс.Практикум Data Scientist (учебный опыт)]( https://practicum.yandex.ru/data-scientist/ "Яндекс.Практикум Data Scientist (учебный опыт)")
 |  Проект |  Описание задачи | Библиотеки | 
 | :--------------------------- | :--------------------------- | --------------------- |
 | [Отток клиентов](https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |
