@@ -3,7 +3,7 @@
  
 |  Проект |  Описание задачи | Библиотеки |  |
 | :--------------------------- | :--------------------------- | --------------------- |:---------------------------|
-| [Отток клиентов](//https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |  |
+| [Отток клиентов](https://github.com/SvetlanaY/customer_churn "Отток клиентов")| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn |  |
 | Исследование игровых платформ и успешности игры| Выявить определяющие успешность игры закономерности для планирования рекламной кампании. | Pandas, NumPy, Seaborn, Matplotlib,scipy | https://github.com/SvetlanaY/gaming_platforms |
 | Отток клиентов.| Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | Pandas, NumPy, Seaborn, Matplotlib, sklearn | https://github.com/SvetlanaY/customer_churn |
 | Исследование надёжности заёмщиков.|  | Pandas, NumPy, Seaborn, Matplotlib, pymystem3 | https://github.com/SvetlanaY/Investigation-of-the-borrower-s-trustworthiness  |
